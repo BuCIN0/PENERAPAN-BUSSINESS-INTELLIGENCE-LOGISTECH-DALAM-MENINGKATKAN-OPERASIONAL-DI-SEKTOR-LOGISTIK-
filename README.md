@@ -1,6 +1,23 @@
 # PENERAPAN-BUSSINESS-INTELLIGENCE-LOGISTECH-DALAM-MENINGKATKAN-OPERASIONAL-DI-SEKTOR-LOGISTIK-
 LoGISTECH is a logistics company that focuses on freight forwarding and distribution solutions. The document "Penerapan Business Intelligence LoGISTECH dalam Meningkatkan Operasional di Sektor Logistik” discusses the use of analytics dashboards and machine learning algorithms to improve shipping efficiency. Through descriptive, diagnostic, predictive, and prescriptive analytics, as well as algorithms such as SVM, Decision Tree, and Gradient Boosting, LoGISTECH can understand the causes of delays, predict delivery performance, and improve customer satisfaction.
 
+<H3 align="center">
+  Status<br><br>
+  <a href=#>
+    <img src="https://img.shields.io/badge/Project_Status-Closed-red.svg" alt="Project is Closed">
+  </a>
+  <a href=#>
+    <img src="https://img.shields.io/badge/Final_Grade-A-green.svg" alt="Grade A">
+  </a>
+</H3>
+
+<H3 align="center">
+  Tools Used<br><br>
+  <a href=#>
+    <img src="https://img.shields.io/badge/Made%20with-PowerBi-e97627?style=for-the-badge&logo=power bi" alt="PowerBI">
+  </a>
+</H3>
+
 ### Dashboard 1: Distribution of Delivery Status (Descriptive Analysis)
 This dashboard provides an overview of the delivery status, i.e. early, on-time, or late delivery.
 ![{D30E1549-3912-456D-9428-796B8FFC38D8}](https://github.com/user-attachments/assets/c225a54b-c5c2-41e8-804a-99c5a8d27833)
